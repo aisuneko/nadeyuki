@@ -1,0 +1,5 @@
+fp-info-cache
+fp-lib-table
+nadeshiko-backups/
+*.kicad_sch-bak
+*.lck
