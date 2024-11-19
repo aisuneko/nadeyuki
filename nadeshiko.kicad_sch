@@ -4392,7 +4392,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TLV1812"
+		(property "Value" "TLV1811"
 			(at 62.23 125.73 0)
 			(effects
 				(font
@@ -4459,7 +4459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Display" "TLV1812"
+		(property "Display" "TLV1811"
 			(at 64.77 130.8101 0)
 			(effects
 				(font
@@ -5022,7 +5022,7 @@
 				)
 			)
 		)
-		(property "Value" "TLV1812"
+		(property "Value" "TLV1811"
 			(at 63.5 120.65 0)
 			(effects
 				(font
@@ -5088,7 +5088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Display" "TLV1812"
+		(property "Display" "TLV1811"
 			(at 64.77 106.68 0)
 			(effects
 				(font

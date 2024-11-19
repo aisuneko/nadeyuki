@@ -4,4 +4,4 @@ nadeshiko-backups/*
 *.kicad_sch-bak
 *.lck
 _autosave-*
-*.csv
+artifacts
