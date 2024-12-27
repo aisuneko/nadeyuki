@@ -1,0 +1,79 @@
+# Copyright (C) 2023  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions 
+# and other software and tools, and any partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Intel Program License 
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details, at
+# https://fpgasoftware.intel.com/eula.
+
+# Quartus Prime Version 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+# File: /home/aisuneko/Desktop/yukiyuna.csv
+# Generated on: Fri Dec 27 20:15:23 2024
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus Prime software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,Transceiver Analog Settings Protocol,VCCR_GXB/VCCT_GXB Voltage,Transceiver I/O Pin Termination,Transceiver Dedicated Refclk Pin Termination,Transmitter Common Mode Driver Voltage,Transmitter Slew Rate Control,Transmitter Differential Output Voltage,Receiver Buffer Common Mode Voltage,Strict Preservation
+clk,Input,PIN_AF14,3B,B3B_N0,PIN_AF14,2.5 V,,,,,,,,,,,,,
+cnt[7],Output,,,,PIN_W19,2.5 V,,,,,,,,,,,,,
+cnt[6],Output,,,,PIN_AD19,2.5 V,,,,,,,,,,,,,
+cnt[5],Output,,,,PIN_AK26,2.5 V,,,,,,,,,,,,,
+cnt[4],Output,,,,PIN_Y19,2.5 V,,,,,,,,,,,,,
+cnt[3],Output,,,,PIN_AH25,2.5 V,,,,,,,,,,,,,
+cnt[2],Output,,,,PIN_AF23,2.5 V,,,,,,,,,,,,,
+cnt[1],Output,,,,PIN_AA20,2.5 V,,,,,,,,,,,,,
+cnt[0],Output,,,,PIN_AC22,2.5 V,,,,,,,,,,,,,
+cnt[0](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+cnt[1](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+cnt[2](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+cnt[3](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+cnt[4](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+cnt[5](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+cnt[6](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+cnt[7](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+dec_btn,Input,PIN_AJ4,3B,B3B_N0,PIN_AJ4,2.5 V,,,,,,,,,,,,,
+inc_btn,Input,PIN_AK4,3B,B3B_N0,PIN_AK4,2.5 V,,,,,,,,,,,,,
+led[7],Output,PIN_AF24,4A,B4A_N0,PIN_AF24,2.5 V,,,,,,,,,,,,,
+led[6],Output,PIN_AE24,4A,B4A_N0,PIN_AE24,2.5 V,,,,,,,,,,,,,
+led[5],Output,PIN_AF25,4A,B4A_N0,PIN_AF25,2.5 V,,,,,,,,,,,,,
+led[4],Output,PIN_AG25,4A,B4A_N0,PIN_AG25,2.5 V,,,,,,,,,,,,,
+led[3],Output,PIN_AD24,4A,B4A_N0,PIN_AD24,2.5 V,,,,,,,,,,,,,
+led[2],Output,PIN_AC23,4A,B4A_N0,PIN_AC23,2.5 V,,,,,,,,,,,,,
+led[1],Output,PIN_AB23,5A,B5A_N0,PIN_AB23,2.5 V,,,,,,,,,,,,,
+led[0],Output,,,,PIN_AH29,2.5 V,,,,,,,,,,,,,
+led[7](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+led[0](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+led[1](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+led[2](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+led[3](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+led[4](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+led[5](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+led[6](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+out[7],Output,PIN_AJ26,4A,B4A_N0,PIN_AJ26,2.5 V,,,,,,,,,,,,,
+out[6],Output,PIN_AG26,4A,B4A_N0,PIN_AG26,2.5 V,,,,,,,,,,,,,
+out[5],Output,PIN_AF26,4A,B4A_N0,PIN_AF26,2.5 V,,,,,,,,,,,,,
+out[4],Output,PIN_AH27,4A,B4A_N0,PIN_AH27,2.5 V,,,,,,,,,,,,,
+out[3],Output,PIN_AJ27,4A,B4A_N0,PIN_AJ27,2.5 V,,,,,,,,,,,,,
+out[2],Output,PIN_AK27,4A,B4A_N0,PIN_AK27,2.5 V,,,,,,,,,,,,,
+out[1],Output,PIN_AK28,4A,B4A_N0,PIN_AK28,2.5 V,,,,,,,,,,,,,
+out[0],Output,PIN_AK29,4A,B4A_N0,PIN_AK29,2.5 V,,,,,,,,,,,,,
+out[0](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+out[1](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+out[2](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+out[3](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+out[4](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+out[5](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+out[6](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+out[7](n),Output,,,,,2.5 V,,,,,,,,,,,,,
+rst,Input,PIN_Y27,5B,B5B_N0,PIN_Y27,2.5 V,,,,,,,,,,,,,
+rst_led,Output,PIN_AA24,5A,B5A_N0,PIN_AA24,2.5 V,,,,,,,,,,,,,
+sel[2],Input,PIN_W25,5B,B5B_N0,PIN_W25,2.5 V,,,,,,,,,,,,,
+sel[1],Input,PIN_AC30,5B,B5B_N0,PIN_AC30,2.5 V,,,,,,,,,,,,,
+sel[0],Input,PIN_AB28,5B,B5B_N0,PIN_AB28,2.5 V,,,,,,,,,,,,,
+vga_clk,Output,PIN_AK21,4A,B4A_N0,PIN_AK21,2.5 V,,,,,,,,,,,,,
